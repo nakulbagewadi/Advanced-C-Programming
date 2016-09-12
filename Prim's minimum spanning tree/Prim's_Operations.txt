@@ -1,0 +1,128 @@
+
+Enter the 'from' node, 'to' node and the cost/weight of the arc between the two nodes to form a graph.
+
+
+Enter the 'from' node (0-7) or -1 to quit: 0.
+
+Enter the 'to' node (0-7): 1.
+
+Enter the cost/weight of the arc between the two nodes: 25.
+
+Enter the 'from' node (0-7) or -1 to quit: 0.
+
+Enter the 'to' node (0-7): 2.
+
+Enter the cost/weight of the arc between the two nodes: 65.
+
+Enter the 'from' node (0-7) or -1 to quit: 0.
+
+Enter the 'to' node (0-7): 3.
+
+Enter the cost/weight of the arc between the two nodes: 85.
+
+Enter the 'from' node (0-7) or -1 to quit: 1.
+
+Enter the 'to' node (0-7): 2.
+
+Enter the cost/weight of the arc between the two nodes: 30.
+
+Enter the 'from' node (0-7) or -1 to quit: 1.
+
+Enter the 'to' node (0-7): 3.
+
+Enter the cost/weight of the arc between the two nodes: 40.
+
+Enter the 'from' node (0-7) or -1 to quit: 2.
+
+Enter the 'to' node (0-7): 4.
+
+Enter the cost/weight of the arc between the two nodes: 60.
+
+Enter the 'from' node (0-7) or -1 to quit: 2.
+
+Enter the 'to' node (0-7): 6.
+
+Enter the cost/weight of the arc between the two nodes: 120.
+
+Enter the 'from' node (0-7) or -1 to quit: 3.
+
+Enter the 'to' node (0-7): 4.
+
+Enter the cost/weight of the arc between the two nodes: 75.
+
+Enter the 'from' node (0-7) or -1 to quit: 3.
+
+Enter the 'to' node (0-7): 5.
+
+Enter the cost/weight of the arc between the two nodes: 90.
+
+Enter the 'from' node (0-7) or -1 to quit: 3.
+
+Enter the 'to' node (0-7): 6.
+
+Enter the cost/weight of the arc between the two nodes: 130.
+
+Enter the 'from' node (0-7) or -1 to quit: 4.
+
+Enter the 'to' node (0-7): 6.
+
+Enter the cost/weight of the arc between the two nodes: 55.
+
+Enter the 'from' node (0-7) or -1 to quit: 5.
+
+Enter the 'to' node (0-7): 6.
+
+Enter the cost/weight of the arc between the two nodes: 50.
+
+Enter the 'from' node (0-7) or -1 to quit: 5.
+
+Enter the 'to' node (0-7): 7.
+
+Enter the cost/weight of the arc between the two nodes: 70.
+
+Enter the 'from' node (0-7) or -1 to quit: 6.
+
+Enter the 'to' node (0-7): 7.
+
+Enter the cost/weight of the arc between the two nodes: 40.
+
+Enter the 'from' node (0-7) or -1 to quit: -1.
+
+You chose to quit.
+
+Printing weight matrix contents:
+
+	0	1	2	3	4	5	6	7
+0:	-1	25	65	85	-1	-1	-1	-1	
+1:	-1	-1	30	40	-1	-1	-1	-1	
+2:	-1	-1	-1	-1	60	-1	120	-1	
+3:	-1	-1	-1	-1	75	90	130	-1	
+4:	-1	-1	-1	-1	-1	-1	55	-1	
+5:	-1	-1	-1	-1	-1	-1	50	70	
+6:	-1	-1	-1	-1	-1	-1	-1	40	
+7:	-1	-1	-1	-1	-1	-1	-1	-1	
+
+------------------------------------------------------------------------------
+
+Enter the 'from' node (0-7) or -1 to quit: 
+Minimum spanning tree using Prim's algorithm:
+
+
+0 -> 1 = 25
+
+1 -> 2 = 30
+
+1 -> 3 = 40
+
+2 -> 4 = 60
+
+3 -> 5 = 90
+
+5 -> 6 = 50
+
+6 -> 7 = 40
+
+------------------------------------------------------------------------------
+
+Enter the 'from' node (0-7) or -1 to quit: 
+You chose to quit.
