@@ -1,0 +1,131 @@
+
+
+User put 4 discs in the 'INITIAL' Tower of the game.
+
+
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 3 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 2 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+>> Final move. Moving disc 4 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 2 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+>> Final move. Moving disc 3 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+>> Final move. Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+>> Final move. Moving disc 1 from AUX_TOWER to TARGET_TOWER
+GAME OVER !!!
+
+
+User put 5 discs in the 'INITIAL' Tower of the game.
+
+
+Moving disc 1 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 2 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to AUX_TOWER
+Moving disc 3 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to INITIAL_TOWER
+Moving disc 2 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 4 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to AUX_TOWER
+Moving disc 2 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 1 from AUX_TOWER to INITIAL_TOWER
+Moving disc 3 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 2 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to AUX_TOWER
+>> Final move. Moving disc 5 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to INITIAL_TOWER
+Moving disc 2 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 3 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to AUX_TOWER
+Moving disc 2 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 1 from AUX_TOWER to INITIAL_TOWER
+>> Final move. Moving disc 4 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 2 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to AUX_TOWER
+>> Final move. Moving disc 3 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to INITIAL_TOWER
+>> Final move. Moving disc 2 from AUX_TOWER to TARGET_TOWER
+>> Final move. Moving disc 1 from INITIAL_TOWER to TARGET_TOWER
+GAME OVER !!!
+
+
+User put 6 discs in the 'INITIAL' Tower of the game.
+
+
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 3 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 2 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 4 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 2 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 3 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 5 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 2 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 3 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 2 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 4 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 3 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 2 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+>> Final move. Moving disc 6 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 2 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 3 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 4 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 2 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 3 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 2 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+>> Final move. Moving disc 5 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 3 from INITIAL_TOWER to AUX_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+Moving disc 2 from TARGET_TOWER to AUX_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+>> Final move. Moving disc 4 from INITIAL_TOWER to TARGET_TOWER
+Moving disc 1 from AUX_TOWER to TARGET_TOWER
+Moving disc 2 from AUX_TOWER to INITIAL_TOWER
+Moving disc 1 from TARGET_TOWER to INITIAL_TOWER
+>> Final move. Moving disc 3 from AUX_TOWER to TARGET_TOWER
+Moving disc 1 from INITIAL_TOWER to AUX_TOWER
+>> Final move. Moving disc 2 from INITIAL_TOWER to TARGET_TOWER
+>> Final move. Moving disc 1 from AUX_TOWER to TARGET_TOWER
+GAME OVER !!!
+
+
+You chose to quit.
+
