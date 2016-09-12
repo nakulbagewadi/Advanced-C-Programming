@@ -1,0 +1,40 @@
+
+>> ENQUEUE
+INSERTing 25 in the queue
+Current Queue contents:  25
+>> ENQUEUE
+INSERTing 37 in the queue
+Current Queue contents:  25 37
+>> ENQUEUE
+INSERTing 45 in the queue
+Current Queue contents:  25 37 45
+>> ENQUEUE
+INSERTing 52 in the queue
+Current Queue contents:  25 37 45 52
+>> ENQUEUE
+INSERTing 98 in the queue
+Current Queue contents:  25 37 45 52 98
+<< DEQUEUE
+REMOVing 25 from the queue
+Current Queue contents:  37 45 52 98
+<< DEQUEUE
+REMOVing 37 from the queue
+Current Queue contents:  45 52 98
+<< DEQUEUE
+REMOVing 45 from the queue
+Current Queue contents:  52 98
+>> ENQUEUE
+INSERTing 36 in the queue
+Current Queue contents:  52 98 36
+>> ENQUEUE
+INSERTing 12 in the queue
+Current Queue contents:  52 98 36 12
+<< DEQUEUE
+REMOVing 52 from the queue
+Current Queue contents:  98 36 12
+<< DEQUEUE
+REMOVing 98 from the queue
+Current Queue contents:  36 12
+>> ENQUEUE
+INSERTing 69 in the queue
+Current Queue contents:  36 12 69
