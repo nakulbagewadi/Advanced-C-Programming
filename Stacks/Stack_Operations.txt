@@ -1,0 +1,102 @@
+
+PUSHing { on the stack
+'x' is an operand
+'+' is an operator
+PUSHing ( on the stack
+'y' is an operand
+'-' is an operator
+PUSHing [ on the stack
+'a' is an operand
+'+' is an operator
+'b' is an operand
+POPping [ from the stack
+
+Correct scope, [ ]
+
+POPping ( from the stack
+
+Correct scope, ( )
+
+'*' is an operator
+PUSHing ( on the stack
+'c' is an operand
+'-' is an operator
+PUSHing [ on the stack
+PUSHing ( on the stack
+'d' is an operand
+'+' is an operator
+'e' is an operand
+POPping ( from the stack
+
+Correct scope, ( )
+
+POPping [ from the stack
+
+Correct scope, [ ]
+
+'+' is an operator
+'k' is an operand
+POPping ( from the stack
+
+Correct scope, ( )
+
+POPping { from the stack
+
+Correct scope, { }
+
+'/' is an operator
+PUSHing ( on the stack
+'h' is an operand
+'-' is an operator
+PUSHing ( on the stack
+'j' is an operand
+'-' is an operator
+PUSHing ( on the stack
+'k' is an operand
+'-' is an operator
+PUSHing [ on the stack
+'l' is an operand
+'-' is an operator
+'n' is an operand
+POPping [ from the stack
+
+Correct scope, [ ]
+
+POPping ( from the stack
+
+Correct scope, ( )
+
+POPping ( from the stack
+
+Correct scope, ( )
+
+POPping ( from the stack
+
+Correct scope, ( )
+
+'+' is an operator
+PUSHing { on the stack
+'u' is an operand
+'+' is an operator
+PUSHing [ on the stack
+'m' is an operand
+'*' is an operator
+PUSHing ( on the stack
+'p' is an operand
+'-' is an operator
+'q' is an operand
+POPping ( from the stack
+
+Correct scope, ( )
+
+POPping [ from the stack
+
+Correct scope, [ ]
+
+'/' is an operator
+'r' is an operand
+POPping { from the stack
+
+Correct scope, { }
+
+End of valid expression! All scopes are correct!
