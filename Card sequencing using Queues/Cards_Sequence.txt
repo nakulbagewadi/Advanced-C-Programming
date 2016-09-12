@@ -1,0 +1,91 @@
+
+
+---------------------------- Next card sequence ----------------------------
+
+INSERTing A in the queue
+Original queue contents:  A
+INSERTing 2 in the queue
+Original queue contents:  A 2
+INSERTing 3 in the queue
+Original queue contents:  A 2 3
+INSERTing 4 in the queue
+Original queue contents:  A 2 3 4
+INSERTing 5 in the queue
+Original queue contents:  A 2 3 4 5
+INSERTing 6 in the queue
+Original queue contents:  A 2 3 4 5 6
+INSERTing 7 in the queue
+Original queue contents:  A 2 3 4 5 6 7
+INSERTing 8 in the queue
+Original queue contents:  A 2 3 4 5 6 7 8
+INSERTing 9 in the queue
+Original queue contents:  A 2 3 4 5 6 7 8 9
+INSERTing 0 in the queue
+Original queue contents:  A 2 3 4 5 6 7 8 9 0
+INSERTing J in the queue
+Original queue contents:  A 2 3 4 5 6 7 8 9 0 J
+INSERTing Q in the queue
+Original queue contents:  A 2 3 4 5 6 7 8 9 0 J Q
+INSERTing K in the queue
+Original queue contents:  A 2 3 4 5 6 7 8 9 0 J Q K
+Shuffling iteration 1, Shuffled queue contents:  K
+Shuffling iteration 2, Shuffled queue contents:  K Q
+Shuffling iteration 3, Shuffled queue contents:  Q J K
+Shuffling iteration 4, Shuffled queue contents:  K 0 Q J
+Shuffling iteration 5, Shuffled queue contents:  J 9 K 0 Q
+Shuffling iteration 6, Shuffled queue contents:  Q 8 J 9 K 0
+Shuffling iteration 7, Shuffled queue contents:  0 7 Q 8 J 9 K
+Shuffling iteration 8, Shuffled queue contents:  K 6 0 7 Q 8 J 9
+Shuffling iteration 9, Shuffled queue contents:  9 5 K 6 0 7 Q 8 J
+Shuffling iteration 10, Shuffled queue contents:  J 4 9 5 K 6 0 7 Q 8
+Shuffling iteration 11, Shuffled queue contents:  8 3 J 4 9 5 K 6 0 7 Q
+Shuffling iteration 12, Shuffled queue contents:  Q 2 8 3 J 4 9 5 K 6 0 7
+Shuffling iteration 13, Shuffled queue contents:  7 A Q 2 8 3 J 4 9 5 K 6 0
+After shuffling, Shuffled queue contents:  7 A Q 2 8 3 J 4 9 5 K 6 0
+Opening cards: A 2 3 4 5 6 7 8 9 0 J Q K 
+
+---------------------------- Next card sequence ----------------------------
+
+INSERTing Q in the queue
+Original queue contents:  Q
+INSERTing 2 in the queue
+Original queue contents:  Q 2
+INSERTing 3 in the queue
+Original queue contents:  Q 2 3
+INSERTing A in the queue
+Original queue contents:  Q 2 3 A
+INSERTing 5 in the queue
+Original queue contents:  Q 2 3 A 5
+INSERTing 6 in the queue
+Original queue contents:  Q 2 3 A 5 6
+INSERTing J in the queue
+Original queue contents:  Q 2 3 A 5 6 J
+INSERTing 8 in the queue
+Original queue contents:  Q 2 3 A 5 6 J 8
+INSERTing 9 in the queue
+Original queue contents:  Q 2 3 A 5 6 J 8 9
+INSERTing 4 in the queue
+Original queue contents:  Q 2 3 A 5 6 J 8 9 4
+INSERTing 7 in the queue
+Original queue contents:  Q 2 3 A 5 6 J 8 9 4 7
+INSERTing K in the queue
+Original queue contents:  Q 2 3 A 5 6 J 8 9 4 7 K
+INSERTing 0 in the queue
+Original queue contents:  Q 2 3 A 5 6 J 8 9 4 7 K 0
+Shuffling iteration 1, Shuffled queue contents:  0
+Shuffling iteration 2, Shuffled queue contents:  0 K
+Shuffling iteration 3, Shuffled queue contents:  K 7 0
+Shuffling iteration 4, Shuffled queue contents:  0 4 K 7
+Shuffling iteration 5, Shuffled queue contents:  7 9 0 4 K
+Shuffling iteration 6, Shuffled queue contents:  K 8 7 9 0 4
+Shuffling iteration 7, Shuffled queue contents:  4 J K 8 7 9 0
+Shuffling iteration 8, Shuffled queue contents:  0 6 4 J K 8 7 9
+Shuffling iteration 9, Shuffled queue contents:  9 5 0 6 4 J K 8 7
+Shuffling iteration 10, Shuffled queue contents:  7 A 9 5 0 6 4 J K 8
+Shuffling iteration 11, Shuffled queue contents:  8 3 7 A 9 5 0 6 4 J K
+Shuffling iteration 12, Shuffled queue contents:  K 2 8 3 7 A 9 5 0 6 4 J
+Shuffling iteration 13, Shuffled queue contents:  J Q K 2 8 3 7 A 9 5 0 6 4
+After shuffling, Shuffled queue contents:  J Q K 2 8 3 7 A 9 5 0 6 4
+Opening cards: Q 2 3 A 5 6 J 8 9 4 7 K 0 
+
+---------------------------- Next card sequence ----------------------------
