@@ -1,0 +1,453 @@
+Key = 15610 & HashedKey = 13
+Key = 18418 & HashedKey = 7
+Key = 46587 & HashedKey = 0
+Key = 11000 & HashedKey = 2
+Key = 26245 & HashedKey = 4
+Key = 58176 & HashedKey = 12
+Key = 10283 & HashedKey = 14
+Key = 21312 & HashedKey = 9
+Key = 108450 & HashedKey = 3
+Key = 27500 & HashedKey = 14
+Key = 151151 & HashedKey = 14
+Key = 326340 & HashedKey = 3
+Key = 102986 & HashedKey = 11
+Key = 409780 & HashedKey = 13
+Key = 159360 & HashedKey = 9
+Key = 123648 & HashedKey = 9
+Key = 169796 & HashedKey = 8
+Key = 550890 & HashedKey = 12
+Key = 184072 & HashedKey = 7
+Key = 452920 & HashedKey = 7
+Key = 605115 & HashedKey = 3
+Key = 175252 & HashedKey = 7
+Key = 534750 & HashedKey = 9
+Key = 84504 & HashedKey = 6
+Key = 500800 & HashedKey = 13
+Key = 203372 & HashedKey = 2
+Key = 657882 & HashedKey = 6
+Key = 142576 & HashedKey = 10
+Key = 359687 & HashedKey = 8
+Key = 118170 & HashedKey = 3
+Key = 814928 & HashedKey = 2
+Key = 119872 & HashedKey = 13
+Key = 394350 & HashedKey = 9
+Key = 857922 & HashedKey = 3
+Key = 499695 & HashedKey = 12
+Key = 283428 & HashedKey = 12
+Key = 704998 & HashedKey = 7
+Key = 391134 & HashedKey = 6
+Key = 363558 & HashedKey = 0
+Key = 75560 & HashedKey = 8
+Key = 830783 & HashedKey = 14
+Key = 1371090 & HashedKey = 6
+Key = 113262 & HashedKey = 0
+Key = 693264 & HashedKey = 0
+Key = 1330830 & HashedKey = 3
+Key = 789314 & HashedKey = 2
+Key = 362746 & HashedKey = 13
+Key = 271008 & HashedKey = 3
+Key = 401065 & HashedKey = 1
+Key = 883300 & HashedKey = 7
+Key = 84558 & HashedKey = 0
+Key = 73580 & HashedKey = 8
+Key = 1715557 & HashedKey = 1
+Key = 666306 & HashedKey = 12
+Key = 131890 & HashedKey = 7
+Key = 555408 & HashedKey = 12
+Key = 808431 & HashedKey = 9
+Key = 1436544 & HashedKey = 12
+Key = 1233454 & HashedKey = 7
+Key = 1892640 & HashedKey = 0
+Key = 1769 & HashedKey = 8
+Key = 1165724 & HashedKey = 11
+Key = 247779 & HashedKey = 6
+Key = 426624 & HashedKey = 9
+Key = 1566630 & HashedKey = 12
+Key = 965052 & HashedKey = 12
+Key = 2045376 & HashedKey = 12
+Key = 1130092 & HashedKey = 1
+Key = 1203912 & HashedKey = 3
+Key = 365400 & HashedKey = 3
+Key = 1849834 & HashedKey = 7
+Key = 2277288 & HashedKey = 6
+Key = 2016041 & HashedKey = 14
+Key = 1659672 & HashedKey = 6
+Key = 791325 & HashedKey = 12
+Key = 1657256 & HashedKey = 2
+Key = 343112 & HashedKey = 14
+Key = 2337348 & HashedKey = 0
+Key = 1113347 & HashedKey = 5
+Key = 1483040 & HashedKey = 5
+Key = 2399301 & HashedKey = 12
+Key = 2086162 & HashedKey = 10
+Key = 1713037 & HashedKey = 7
+Key = 2092860 & HashedKey = 12
+Key = 1357620 & HashedKey = 9
+Key = 2473274 & HashedKey = 14
+Key = 2026404 & HashedKey = 3
+Key = 1571592 & HashedKey = 0
+Key = 1474374 & HashedKey = 0
+Key = 1007190 & HashedKey = 3
+Key = 2564926 & HashedKey = 4
+Key = 563868 & HashedKey = 6
+Key = 520149 & HashedKey = 6
+Key = 3045036 & HashedKey = 6
+Key = 2314960 & HashedKey = 10
+Key = 2537760 & HashedKey = 0
+Key = 854473 & HashedKey = 1
+Key = 1669234 & HashedKey = 1
+Key = 1884960 & HashedKey = 6
+Key = 905900 & HashedKey = 8
+
+
+------------------------------------------------------------------------------
+
+Printing Hash Table contents: 
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> 2564926 -> 26245 -> NULL
+
+HashTable[5] -> 1483040 -> 1113347 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2314960 -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 2473274 -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> 10283 -> NULL
+
+
+
+------------------------------------------------------------------------------
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 2314960 & HashedDeleteKey = 10
+
+
+You entered key: 2314960. Removed key: 2314960 from the hash table index: 10.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> 2564926 -> 26245 -> NULL
+
+HashTable[5] -> 1483040 -> 1113347 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 2473274 -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> 10283 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 26245 & HashedDeleteKey = 4
+
+
+You entered key: 26245. Removed key: 26245 from the hash table index: 4.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> 2564926 -> NULL
+
+HashTable[5] -> 1483040 -> 1113347 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 2473274 -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> 10283 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 2564926 & HashedDeleteKey = 4
+
+
+You entered key: 2564926. Removed key: 2564926 from the hash table index: 4.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> NULL
+
+HashTable[5] -> 1483040 -> 1113347 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 2473274 -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> 10283 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 2564926 & HashedDeleteKey = 4
+
+
+You entered 2564926. Unable to remove the key as it does not exist in the Hash table.
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 2473274 & HashedDeleteKey = 14
+
+
+You entered key: 2473274. Removed key: 2473274 from the hash table index: 14.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> NULL
+
+HashTable[5] -> 1483040 -> 1113347 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> 10283 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 10283 & HashedDeleteKey = 14
+
+
+You entered key: 10283. Removed key: 10283 from the hash table index: 14.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> NULL
+
+HashTable[5] -> 1483040 -> 1113347 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 1113347 & HashedDeleteKey = 5
+
+
+You entered key: 1113347. Removed key: 1113347 from the hash table index: 5.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> NULL
+
+HashTable[5] -> 1483040 -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 1483040 & HashedDeleteKey = 5
+
+
+You entered key: 1483040. Removed key: 1483040 from the hash table index: 5.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> NULL
+
+HashTable[5] -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 1233454 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 1483040 & HashedDeleteKey = 5
+
+
+You entered 1483040. Unable to remove the key as it does not exist in the Hash table.
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+Delete_key = 1233454 & HashedDeleteKey = 7
+
+
+You entered key: 1233454. Removed key: 1233454 from the hash table index: 7.
+
+HashTable[0] -> 2537760 -> 1474374 -> 1571592 -> 2337348 -> 1892640 -> 84558 -> 693264 -> 113262 -> 363558 -> 46587 -> NULL
+
+HashTable[1] -> 1669234 -> 854473 -> 1130092 -> 1715557 -> 401065 -> NULL
+
+HashTable[2] -> 1657256 -> 789314 -> 814928 -> 203372 -> 11000 -> NULL
+
+HashTable[3] -> 1007190 -> 2026404 -> 365400 -> 1203912 -> 271008 -> 1330830 -> 857922 -> 118170 -> 605115 -> 326340 -> 108450 -> NULL
+
+HashTable[4] -> NULL
+
+HashTable[5] -> NULL
+
+HashTable[6] -> 1884960 -> 3045036 -> 520149 -> 563868 -> 1659672 -> 2277288 -> 247779 -> 1371090 -> 391134 -> 657882 -> 84504 -> NULL
+
+HashTable[7] -> 1713037 -> 1849834 -> 131890 -> 883300 -> 704998 -> 175252 -> 452920 -> 184072 -> 18418 -> NULL
+
+HashTable[8] -> 905900 -> 1769 -> 73580 -> 75560 -> 359687 -> 169796 -> NULL
+
+HashTable[9] -> 1357620 -> 426624 -> 808431 -> 394350 -> 534750 -> 123648 -> 159360 -> 21312 -> NULL
+
+HashTable[10] -> 2086162 -> 142576 -> NULL
+
+HashTable[11] -> 1165724 -> 102986 -> NULL
+
+HashTable[12] -> 2092860 -> 2399301 -> 791325 -> 2045376 -> 965052 -> 1566630 -> 1436544 -> 555408 -> 666306 -> 283428 -> 499695 -> 550890 -> 58176 -> NULL
+
+HashTable[13] -> 362746 -> 119872 -> 500800 -> 409780 -> 15610 -> NULL
+
+HashTable[14] -> 343112 -> 2016041 -> 830783 -> 151151 -> 27500 -> NULL
+
+
+Enter the node to be deleted from the Hash Table above or -1 to quit: 
+
+You chose to quit.
