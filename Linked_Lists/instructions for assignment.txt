@@ -1,0 +1,7 @@
+This assignment deals with linear linked list. 
+Read the input from the input file, do not initialize an array with input numbers. 
+Create and add the link to the list as you read the input. 
+Give the output after each task with a header explaining the task. 
+Prompt the user for deleting the entries from the list and output after each deletion. 
+Follow te order in which the deletion to be processed as given in the assignment. 
+Please do not intialize an array for deleting the entries.
