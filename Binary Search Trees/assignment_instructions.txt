@@ -1,0 +1,15 @@
+Follow the instructions in the assignment.
+
+This assignment deals with binary tree implementation. 
+Read the input values from the input file and implement a binary tree. 
+Create a tree node and add to the tree as you read input from the file. 
+Travers the binary tree in pre-order, post-order and in-order both recursive and non-recursive implementations.  
+Print output after each traversals, prompt the user to delete an element until the user quits. 
+Please do not create an array to delete tree nodes. Print the binary tree output after deletion.
+
+Hint: non-recursive implementations need the use of stack. 
+As you visit the node, you need to stack the node in the required orded for traversal. 
+
+Implement both recursive and non-recursive methods.
+
+This is a average full credit assignment.
